@@ -177,8 +177,9 @@ sns.kdeplot(x='On a scale of 1-10 rate the following statement MERCY DEATH IS AL
 
 
 
-<center>
-  This text will be centered.
-  <p>THE END</p>
-</center>
+<p align="center">
+
+THE END
+
+</p>
 
