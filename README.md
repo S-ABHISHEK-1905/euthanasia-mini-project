@@ -176,6 +176,6 @@ sns.kdeplot(x='On a scale of 1-10 rate the following statement MERCY DEATH IS AL
 ![image](https://user-images.githubusercontent.com/66360846/201725860-861f7a05-ed81-4529-8801-4229fd46890b.png)
 
 
-
+<center>
 <h1> THE END </h1>
-
+</center>
