@@ -177,9 +177,5 @@ sns.kdeplot(x='On a scale of 1-10 rate the following statement MERCY DEATH IS AL
 
 
 
-<p align="center">
-
-THE END
-
-</p>
+<h1> THE END </h1>
 
