@@ -1,10 +1,6 @@
 # EUTHANASIA / MERCY KILLING
 ## DATA SCIENCE MINI PROJECT
 
-## ABOUT THE DATASET
-
-## USED METHODS
-
 ## PROGRAM WITH OUTPUT
 
 ![image](https://user-images.githubusercontent.com/66360846/201723211-73ba837d-10d9-4c8f-8841-022f99db3819.png)
@@ -140,6 +136,21 @@ print(data)
 hm = sns.heatmap(data = data)
 plt.show()
 ```
+The data to be plotted:
+
+[[18 24 83 39 31 47 96 72 69  4]
+ [21 63 42 84 67 28 53 58 96 16]
+ [69 59 75 47  1 62 72 16 63 71]
+ [78  8 60  1 11 57 89 96 52 67]
+ [29 31 52 79 80 12 24 38 14 52]
+ [87 53 57 79 52 93 68 26 41 61]
+ [98 24 36 66 68 79 62 19 93 20]
+ [82 73 12 53 65 34 17 87 34 63]
+ [28 28 51 49 29 57 62 31  9 77]
+ [62 28 73  8 96 97 35  6 52 68]]
+ 
+ ![image](https://user-images.githubusercontent.com/66360846/203369157-b4835cee-eaf8-4fb3-b12a-17b06d6f2b78.png)
+
 
 
 ### DATA VISUALIZATION
