@@ -8,11 +8,11 @@
 
 ## DESCRIPTION ABOUT THE PROJECT
 
-![image](https://user-images.githubusercontent.com/66360846/204679027-dfb3a346-7767-4797-9591-614ffe1a32a0.png)
+![image](https://user-images.githubusercontent.com/66360846/204680643-cc9bcae8-55df-4e64-b637-e32aaf8e287e.png)
 
-![image](https://user-images.githubusercontent.com/66360846/204679185-5afc61c6-f783-4aed-91f2-3b946ecd9b3b.png)
+![image](https://user-images.githubusercontent.com/66360846/204680590-8df6cf76-6cb3-4134-a2a5-9d9e59cb98bf.png)
 
-![image](https://user-images.githubusercontent.com/66360846/204679200-33232a8d-be33-428b-b1ab-c244be2696b4.png)
+![image](https://user-images.githubusercontent.com/66360846/204680475-08c8b176-0235-4011-8a79-74d6bb5a3550.png)
 
 
 
