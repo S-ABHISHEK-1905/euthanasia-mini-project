@@ -1,5 +1,5 @@
 # EUTHANASIA / MERCY KILLING
-![image](https://user-images.githubusercontent.com/66360846/204679621-35bce0d3-3df4-4a47-855d-04356c621c7e.png)
+![image](https://user-images.githubusercontent.com/66360846/204679685-675169b0-f6c1-48e3-830c-bd27e6ec5603.png)
 
 ## DATA SCIENCE MINI PROJECT
 
