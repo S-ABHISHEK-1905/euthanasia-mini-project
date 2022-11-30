@@ -1,11 +1,8 @@
-<p align="center">
-    
-# EUTHANASIA / MERCY KILLING
+<p align="center"> # EUTHANASIA / MERCY KILLING - DATA SCIENCE MINI PROJECT</p>
 ![image](https://user-images.githubusercontent.com/66360846/204679685-675169b0-f6c1-48e3-830c-bd27e6ec5603.png)
 
-</p>
 
-## DATA SCIENCE MINI PROJECT
+ 
 
 ## DESCRIPTION ABOUT THE PROJECT
 
