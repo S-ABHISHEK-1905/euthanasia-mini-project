@@ -1,11 +1,7 @@
 <h1><p align="center">EUTHANASIA / MERCY KILLING - DATA SCIENCE MINI PROJECT</p></h1>
 
 
-<p align="center">
-
-    <img width="200" src="https://user-images.githubusercontent.com/66360846/204680175-5cc8fb49-732b-4942-9af0-1d94f7b44bfa.png" alt="Mercy KIlling logo">
-
-</p>
+<p align="center"><img width="200" src="https://user-images.githubusercontent.com/66360846/204680175-5cc8fb49-732b-4942-9af0-1d94f7b44bfa.png" alt="Mercy KIlling logo"></p>
 
  
 
