@@ -5,8 +5,7 @@
 
 
  
-
-## DESCRIPTION ABOUT THE PROJECT
+<h2><p align="center">DESCRIPTION ABOUT THE PROJECT</p></h2>
 
 ![image](https://user-images.githubusercontent.com/66360846/204680643-cc9bcae8-55df-4e64-b637-e32aaf8e287e.png)
 
